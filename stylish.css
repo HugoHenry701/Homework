@@ -51,6 +51,7 @@ table{
     border: 1px dashed black;
 
 }
+
 td{
     padding: 2px;
     border: 1px solid aqua;
@@ -70,5 +71,6 @@ li{
 body{
     background-color:burlywood;
 }
+
 
     
